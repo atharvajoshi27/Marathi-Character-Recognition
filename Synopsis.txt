@@ -1,0 +1,57 @@
+1. Title of the Project:
+Marathi Handwriting Recoginition 
+
+2. Group Name: fourbytes 
+Shaunak Mahajan, 111803072, Div-1 S3
+Sushil Mahajan, 111803073, Div-1 S3
+Manas Nighrunkar,111803144 , Div-2 S2
+Atharva Joshi, 111803142, Div-2 S2
+
+3. Reason for selecting the problem:
+We know that kids have to struggle for improving their handwriting. While focussing on
+improving their child's handwriting, parents opt for coaching and they are 
+much likely to waste time and money! We are trying to provide them a platform
+where their kids can practice any time and anywhere providing flexibility and thus
+saving time and money. After all, handwriting is an essential skill!
+
+4. Current state of art to solve the problem:
+Learning to write in a language requires lots of paperwork & supervision by
+someone who knows how to write it.
+
+5. Your solution to the problem:
+We are designing an Android application that will provide a digital platform to
+kids for learning to write Marathi characters. This way, kids can learn
+indepedently. User can select which character to practice. Then, input character
+written in user's handwriting can be given in two forms -
+1) Image format
+2) Drawing on white board. 
+The app will then check whether the given character is correct or not. If not, 
+the app will encourage the user to try again!
+
+6. Technology used:
+Front-end:
+1) HTML5
+2) bootstrap
+3) Javascript
+4) XML
+
+Backend: 
+1)Python3.7
+2)Convolutional Neural Network (CNN) using tensorflow and keras.
+3)For processing images opencv2 is used. 
+4)Dataset- Kaggle (Devnagari Character Dataset) is used for training the model
+ 
+7. Future Developments:
+1) Animations can be added for making app more entertaining for kids.
+2) features for diffierent languages can be added.
+3) Progress bar can be added to track users daily progress.
+4) Star system (like giving user 5 stars after successfully completing particular
+   assignment) can be added which will encourage user to practice more.
+
+8. Github link to project: https://github.com/Manas-nighrunkar/PPL-PROJECT
+
+
+
+
+
+   
